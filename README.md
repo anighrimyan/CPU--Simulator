@@ -1,7 +1,6 @@
 CPU Simulator 
 
-The CPU Simulator is a C++ project that emulates a simple CPU by interpreting and executing a set of assembly-like instructions. It reads an input file containing a series of instructions, processes them, and executes the specified operations.
-The CPU Simulator provides a basic CPU simulation that executes assembly-like instructions. The simulation supports various operations, including arithmetic computations, logical operations, conditional jumps, and more. The project is implemented in C++ and encapsulated within the cpu_simul namespace.
+The CPU Simulator is a C++ project that emulates a simple CPU by interpreting and executing a set of assembly-like instructions. It reads an input file containing a series of instructions, processes them, and executes the specified operations. The simulation supports various operations, including arithmetic computations, logical operations, conditional jumps, and more. The project is implemented in C++ and encapsulated within the cpu_simul namespace.
 
 Supported Operations
 
